@@ -76,40 +76,39 @@ height: 15px;
 }
 
 .detailbutton {
-padding: 10px;
-border-color: solid white;
-border-radius: 10px;
-color: #1d0c8a;
-background-color: #c9c3ec;
-font-weight: bold;
+  border: none;
+  background: #ff7a59;
+  color: #fff;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  position: relative;
+  box-sizing: border-box;
+  transition: all 500ms ease; 
 }
 
 .detailbutton:hover {
-padding: 10px;
-border-color: solid white;
-border-radius: 10px;
-color: #1d0c8a;
-background-color: #c9c3ec;
-font-weight: bold;
+  color: #ff7a59;
+  border: #ff7a59 solid 1px;
+  background:#fff;
 }
 
 
 .appointmentbutton{
-padding: 10px;
-border-color: solid white;
-border-radius: 10px;
-color: #1d0c8a;
-background-color: #c9c3ec;
-font-weight: bold;
-
+  border: none;
+  background: #ff7a59;
+  color: #fff;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  position: relative;
+  box-sizing: border-box;
+  transition: all 500ms ease; 
 }
 .appointmentbutton:hover{
-padding: 10px;
-border-color: solid white;
-border-radius: 10px;
-color: #1d0c8a;
-background-color: #c9c3ec;
-font-weight: bold;
+  color: #ff7a59;
+  border: #ff7a59 solid 1px;
+  background:#fff;
 }
 
 .logo{
